@@ -1,0 +1,39 @@
+h3{
+	color: red;
+}
+input[type]{
+	color: pink;
+}
+input[type="text"]{
+	color: blue;
+}
+input[type="text"]{
+	color: yellowgreen;
+}
+img{
+	border: dotted;
+	border-color: darkgray;
+
+	height: 100px;	
+}
+
+
+<!-- pseudo selector -->
+a:link{
+	color: yellowgreen;
+}
+a:hover{
+	color: pink;
+}
+a:active{
+	color: red;
+}
+a:visited{
+	color:black;
+}
+div:hover{
+	background-color: darkgray;
+	height: 100px;
+	width: 50px;
+
+}

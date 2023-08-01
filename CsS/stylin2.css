@@ -1,0 +1,12 @@
+div,p,h3{
+	color: red;
+}
+#name{
+	color: currentColor;
+}
+<!-- Universal selector -->
+*{
+	font-family: cursive;
+	margin: 0px;
+	padding: 0px;
+}
